@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Prime Video</string>
+    <string name="movies_title">Movies</string>
+    <string name="tv_series_title">TV series</string>
+    <string name="bahar_image">bahar image</string>
+    <string name="downloads_text">İndirilenler</string>
+    <string name="search_text">Arama</string>
+    <string name="account_name">İrem</string>
+    <string name="change_profiles">Profilleri değiştir</string>
+    <string name="home_screen_title">Anasayfa</string>
+    <string name="prime_screen_title">Prime</string>
+    <string name="downloads_title">İndirilenler</string>
+    <string name="search_title">Arama</string>
+    <string name="special_title">Bana Özel</string>
+    <string name="no_downloaded_video_title">Henüz video indirilmedi</string>
+    <string name="automatic_donwload_title">Otomatik İndirmeler: Açık</string>
+    <string name="manage_downloads_title">İndirilenleri yönet</string>
+    <string name="content_voiceover_title">Seslendirmeli TV dizileri ve filmler</string>
+    <string name="best_series_title">Çok İzlenen Diziler</string>
+    <string name="recommended_series_title">Önerilen Dizi</string>
+    <string name="imdb_bests_title">IMDB\'de en beğenilenler</string>
+    <string name="award_list_title">Ödül Alanlar</string>
+    <string name="watch_list_title">İzleme Listesi</string>
+    <string name="take_a_look_title">Şimdi göz atın, daha sonra izleyin</string>
+    <string name="library_share_info">Kütüphaneniz tüm cihazlarınızla paylaşılır.</string>
+</resources>
